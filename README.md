@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/25949605/228586778-79d2fb73-988c-48de-bb5d-a0626442476b.png)
+![image](https://user-images.githubusercontent.com/25949605/228588456-337e0d63-2961-4908-aab1-1ec50353e809.png)
 Настройки gitlab проекта:
 
 ![image](https://user-images.githubusercontent.com/25949605/228586924-7022d4f5-4082-4461-b7c3-747fa7f806f0.png)
