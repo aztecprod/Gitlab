@@ -1,3 +1,4 @@
+Домашнее задание к занятию "Gitlab" - Шевцов Александр
 ![image](https://user-images.githubusercontent.com/25949605/228588456-337e0d63-2961-4908-aab1-1ec50353e809.png)
 Настройки gitlab проекта:
 
